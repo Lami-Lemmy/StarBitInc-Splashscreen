@@ -1,0 +1,18 @@
+ 
+[Desktop Entry]
+Comment=StarbitOS
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=StarbitOS
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Name=StarbitOS
+X-KDE-PluginInfo-Author=LamiLemmy
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=LGPLv3
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-Plasma-MainScript=defaults
